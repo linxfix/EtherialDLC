@@ -1,0 +1,27 @@
+# сборки и логи
+build/
+out/
+*.jar
+*.class
+
+# gradle
+.gradle/
+
+# idea
+.idea/
+*.iml
+
+# vscode
+.vscode/
+.settings/
+
+# macos
+.DS_Store
+
+# fabric
+run/
+
+# java
+hs_err_*.log
+replay_*.log
+*.hprof
