@@ -1,6 +1,6 @@
 # Etherial
 
-**Etherial** — клиентский мод для Minecraft. Релизы публикуются в разделе [Releases](https://github.com/EtherialDLC/EtherialDLC/releases).
+**Etherial** — клиентский мод для Minecraft. Релизы публикуются в разделе [Releases](https://github.com/linxfix/EtherialDLC/releases).
 
 | | |
 |---|---|
@@ -23,7 +23,7 @@
 Все версии доступны на странице релизов:
 
 ```
-https://github.com/EtherialDLC/EtherialDLC/releases
+https://github.com/linxfix/EtherialDLC/releases
 ```
 
 Последняя версия — `BETA1.21.11`.
